@@ -13,6 +13,6 @@
     "express": "^4.17.1",
     "ngrok": "^3.2.5",
     "nodegit": "^0.26.2",
-    "simple-git": "^1.126.0"
+    "simple-git": "^3.3.0"
   }
 }
