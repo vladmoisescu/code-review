@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ngrok": "^3.2.5",
     "nodegit": "^0.26.2",
     "simple-git": "^1.126.0"
